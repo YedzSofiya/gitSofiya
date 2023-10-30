@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/sofiya/pipr/paragony/.git/branches"
+		},
+		{
+			"name": "python-moderator",
+			"uri": "vscode-remote://wsl+ubuntu/home/sofiya/python-moderator"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu",
+	"settings": {}
+}
+//* changes
